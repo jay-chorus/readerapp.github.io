@@ -1,0 +1,40 @@
+[
+
+    {
+        "name" : "Book 1",
+        "category" : "Sci-Fi",
+        "price" : "50.25",
+        "imgSrc" : "images/shop/1A.png"
+    },
+    {
+        "name" : "Book 2",
+        "category" : "Romance",
+        "price" : "102.00",
+        "imgSrc" : "images/shop/2A.png"
+    },
+    {
+        "name" : "Book 3",
+        "category" : "Humor",
+        "price" : "15.00",
+        "imgSrc" : "images/shop/3A.png"
+    },
+    {
+        "name" : "Book 4",
+        "category" : "Thriller",
+        "price" : "23.75",
+        "imgSrc" : "images/shop/4A.png"
+    },
+    {
+        "name" : "Book 5",
+        "category" : "Biography",
+        "price" : "50.00",
+        "imgSrc" : "images/shop/5A.png"
+    },
+    {
+        "name" : "Book 6",
+        "category" : "Graphic",
+        "price" : "200.50",
+        "imgSrc" : "images/shop/6A.png"
+    }
+    
+]
