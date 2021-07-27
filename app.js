@@ -11,7 +11,7 @@ eventListeners();
 
 // all event listeners
 function eventListeners(){
-    window.addEventListener('DOMContentLoaded', () => {
+    window.addEventListener('DOMContentLoaded', () =>
         loadJSON();
         loadCart();
     });
